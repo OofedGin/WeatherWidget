@@ -1,9 +1,9 @@
-# APIS:
+# WeatherWidget
+
+## API:
 [Weather](https://www.weatherapi.com/)
 
 [IP](https://app.ipgeolocation.io)
-
-# WeatherWidget
 ## REQUIRED MODULES:
     * PyQt6
     * requests
